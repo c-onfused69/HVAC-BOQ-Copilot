@@ -1,0 +1,954 @@
+﻿Item code,Item Category,Item Name,Measurement Unit,Price
+1,Service,"Operation and maintenance of the HVAC at Tiger's Den-
+-Central Air Conditioning System for Tiger' Den,
+-Complete Servicing
+-Operating and monitoring of AHU-17 Sets, Chilled Water Pump-04 Sets, Fans, Related Panel Boards, BMS System, auto control system
+--24/7 Operational team shall have available as a minimum 1 Engineer( five years experienced in BMS, chillers O&M)-  8:00 AM to 8:00 PM, 1 Technician (five years experienced in BMS, chillers O&M) – 8:00  AM to 9:00  PM, 1 Technician (five years experienced in BMS, chillers O&M) – 9:00  PM to 8:00 AM
+-Record operational data and share report.",Month,"150,000.00"
+2,Piping Works ,"Pipe dia : 300mm, Sch-40",RFT,"2,450.00"
+3,Piping Works ,"Pipe dia : 200mm, Sch-40",RFT,"2,200.00"
+4,Piping Works ,"Pipe dia : 150mm, Sch-40",RFT,"2,000.00"
+5,Piping Works ,"Pipe dia : 100mm, Sch-40",RFT,"1,850.00"
+6,Piping Works ,"Pipe dia : 80mm, Sch-40",RFT,"1,400.00"
+7,Piping Works ,"Pipe dia : 65mm, Sch-40",RFT,"1,200.00"
+8,Piping Works ,"Pipe dia : 50mm, Sch-40",RFT,"1,400.00"
+9,Piping Works ,"Pipe dia : 40mm, Sch-40",RFT,"1,280.00"
+10,Piping Works ,"Pipe dia : 32mm, Sch-40",RFT,"1,080.00"
+11,Piping Works ,"Pipe dia : 25mm, Sch-40",RFT,960.00
+12,Piping Works ,"Pipe dia : 20mm, Sch-40",RFT,800.00
+13,Bare Pipe,MS Pipe dia : 150mm,RFT,"1,550.00"
+14,Bare Pipe,MS Pipe dia : 100mm,RFT,"1,150.00"
+15,Bare Pipe,MS Pipe dia : 80mm,RFT,990.00
+16,Bare Pipe,MS Pipe dia : 65mm,RFT,470.00
+17,Bare Pipe,MS Pipe dia : 50mm,RFT,410.00
+18,Bare Pipe,MS Pipe dia : 40mm,RFT,315.00
+19,Bare Pipe,MS Pipe dia : 32mm,RFT,365.00
+20,Bare Pipe,Ms Pipe dia : 25mm,RFT,195.00
+21,Bare Pipe,Ms Pipe dia : 20mm,RFT,130.00
+22,Chemicals,Isocynate,Ltr,550.00
+23,Chemicals,Polyol,Ltr,800.00
+24,Condenser Water Pipe,Pipe dia : 500mm,RFT,"2,900.00"
+25,Condenser Water Pipe,Pipe dia : 300mm,RFT,"2,300.00"
+26,Condenser Water Pipe,Pipe dia : 250mm,RFT,"1,900.00"
+27,Condenser Water Pipe,Pipe dia : 200mm,RFT,"1,700.00"
+28,Condensate Drain Pipe,Pipe dia : 32mm,RFT,70.00
+29,Condensate Drain Pipe,Pipe dia : 25mm,RFT,65.00
+30,Condensate Drain Pipe,Pipe dia : 20mm,RFT,39.00
+31,Ball Valve (UL Listed),50mm dia,Nos,"1,470.00"
+32,Ball Valve (UL Listed),32mm dia,Nos,"1,100.00"
+33,Ball Valve (UL Listed),25mm dia,Nos,950.00
+34,Ball Valve (UL Listed),20mm dia,Nos,575.00
+35,Gate Valve (BL Listed),300mm dia,Nos,"24,000.00"
+36,Gate Valve (BL Listed),150mm dia,Nos,"22,500.00"
+37,Gate Valve (BL Listed),100mm dia,Nos,"14,000.00"
+38,Gate Valve (BL Listed),50mm dia,Nos,"1,480.00"
+39,Gate Valve (BL Listed),40mm dia,Nos,"1,000.00"
+40,Gate Valve (BL Listed),25mm dia,Nos,475.00
+41,Gate Valve (BL Listed),20mm dia,Nos,410.00
+42,Gate Valve (BL Listed),15mm dia,Nos,245.00
+43,Globe Valve(UL Listed),15mm dia,Nos,420.00
+44,Check Valve silent type (UL Listed),80mm dia,Nos,"25,500.00"
+45,Balancing Valve (PRV) [UL Listed),150mm dia,Nos,"36,500.00"
+46,Balancing Valve (PRV) [UL Listed),100mm dia,Nos,"31,500.00"
+47,Balancing Valve (PRV) [UL Listed),80mm dia,Nos,"23,000.00"
+48,Balancing Valve (PRV) [UL Listed),65mm dia,Nos,"19,000.00"
+49,Balancing Valve (PRV) [UL Listed),50mm dia,Nos,"16,800.00"
+50,Balancing Valve (PRV) [UL Listed),40mm dia,Nos,"12,800.00"
+51,Balancing Valve (PRV) [UL Listed),32mm dia,Nos,"9,650.00"
+52,Balancing Valve (PRV) [UL Listed),25mm dia,Nos,"6,000.00"
+53,Balancing Valve (PRV) [UL Listed),20mm dia,Nos,"4,500.00"
+54,Butterfly Valve (UL Listed),300mm dia,nos ,"90,400.00"
+55,Butterfly Valve (UL Listed),250mm dia,,"51,355.14"
+56,Butterfly Valve (UL Listed),200mm dia,Nos,"46,883.20"
+57,Butterfly Valve (UL Listed),150mm dia,Nos,"29,000.00"
+58,Butterfly Valve (UL Listed),100mm dia,Nos,"21,000.00"
+59,Butterfly Valve (UL Listed),80mm dia,Nos,"16,800.00"
+60,Butterfly Valve (UL Listed),65mm dia,Nos,"12,000.00"
+61,Automatic Air Vent (UL Listed),20mm dia,Nos,"8,850.00"
+62,Float Valve (UL Listed),20mm dia,Nos,"2,480.00"
+63,Motorized Butterfly Valve ,150mm dia,Nos,"75,000.00"
+64,Flexible Pipe Connector,100mm dia,Nos,"60,000.00"
+65,Flexible Pipe Connector,300mm dia,Nos,"58,800.00"
+66,Flexible Pipe Connector,250mm dia,Nos,"53,200.00"
+67,Flexible Pipe Connector,200mm dia,Nos,"44,800.00"
+68,Flexible Pipe Connector,150mm dia,Nos,"35,000.00"
+69,Flexible Pipe Connector,100mm dia,Nos,"18,100.00"
+70,Flexible Pipe Connector,80mm dia,Nos,"11,300.00"
+71,Flexible Pipe Connector,65mm dia,Nos,"9,600.00"
+72,Water Treatment System,Chemicals,Can (25 Ltr),"28,000.00"
+73,Galvanized Plain Sheet,26 BWG,SFT,220.00
+74,Galvanized Plain Sheet,24 BWG,SFT,260.00
+75,Galvanized Plain Sheet,22 BWG,SFT,290.00
+76,Galvanized Plain Sheet,20 BWG,SFT,302.00
+77,Galvanized Plain Sheet,18 BWG,SFT,330.00
+78,Stainless Steel Jacketing,"Size : 4' x 8', 0.50mm thick",SFT,368.00
+79,Round Flexible Duct,"12"" dia",RFT,775.00
+80,Round Flexible Duct,"10"" dia",RFT,730.00
+81,Round Flexible Duct,"8"" dia",RFT,690.00
+82,Round Flexible Duct,"6"" dia",RFT,630.00
+83,Round Flexible Duct,"5"" dia",RFT,600.00
+84,Round Flexible Duct,"4"" dia",RFT,595.00
+85,Fiberglass Insulation,"25mm thick, 24 kg/m3",SFT,150.00
+86,Fiberglass Insulation,"50mm thick, 24 kg/m3",SFT,138.00
+87,Duct Internal Lining Materials,"Semi rigid board size 25mm thick x 1.22m x 2.4m, 48kg/m3",SFT,140.00
+88,Air Terminals,Supply Air Diffuser c/w VCD,Sq. In,24.00
+89,Air Terminals,Return Air Diffuser w/o VCD,Sq. In,24.00
+90,Air Terminals,Jet Diffuser c/w OBD,Sq. In,24.00
+91,Air Terminals,Circular Diffuser c/w OBD,Sq. In,24.00
+92,Air Terminals,Supply Air Register c/w OBD,Sq. In,20.00
+93,Air Terminals,Return Air Register w/o OBD,Sq. In,20.00
+94,Air Terminals,Exhaust Air Register w/o OBD,Sq. In,20.00
+95,Air Terminals,Fresh Air Register w/o OBD,Sq. In,20.00
+96,Air Terminals,Exhaust Air Grille,Sq. In,20.00
+97,Air Terminals,Fresh Air Grille,Sq. In,20.00
+98,Air Terminals,Return Air Grille,Sq. In,20.00
+99,Air Terminals,Fresh Air Louver,Sq. In,20.00
+100,Air Terminals,Supply Linear Slot Diffuser,Sq. In,21.00
+101,Air Terminals,Return Linear Slot Diffuser w/o plen. Box,Sq. In,22.00
+102,Air Terminals,Transfer Air Grille,Sq. In,20.00
+103,Air Terminals,Acoustic Louver ,Sq. In,21.00
+104,Air Terminals,Exhaust Air Louver,Sq. In,20.00
+105,Dampers,Relief Damper,Sq. In,24.00
+106,Dampers,Volume Controll Damper (manual),Sq. In,24.00
+107,Dampers,Volume Control Damper (Motorized),Sq. In,24.00
+108,Dampers,Gravity Damper ,Sq. In,24.00
+109,Dampers,Fire Damper,Sq. In,24.00
+110,Variable Air Volume Box,Splitter Damper,Nos,500.00
+111,Pipe Insulation Sheet,300mm thick,rft,425.00
+112,Pipe Insulation Sheet,250mm thick,rft,392.00
+113,Pipe Insulation Sheet,200mm thick,rft,350.00
+114,Pipe Insulation Sheet,150mm thick,rft,329.00
+115,Pipe Insulation Sheet,100mm thick,rft,322.00
+116,Pipe Insulation Sheet,80mm thick,rft,308.00
+117,Pipe Insulation Sheet,50mm thick,rft,294.00
+118,Pipe Insulation Sheet,20mm thick,rft,225.00
+119,Pipe Insulation Sheet,25mm thick,rft,222.00
+120,Pipe Insulation Sheet,40mm thick,rft,260.00
+121,Others Service items,V-belt ,Nos,"1,000.00"
+122,Others Service items,Motor bearing,Nos,"1,050.00"
+123,Others Service items,Blower bearing,Nos,"1,000.00"
+124,Others Service items,Motor,Nos,"24,000.00"
+125,Others Service items,Blower,Nos,"8,000.00"
+126,Others Service items,FA Filter,Nos,"3,700.00"
+127,Others Service items,RA Filter,Nos,"3,550.00"
+128,Others Service items,Pre Filter,Nos,"3,550.00"
+129,Others Service items,"Exhuast Motor, 0.5 kW",Nos,"24,000.00"
+130,Others Service items,Exhaust Motor bearing,Nos,660.00
+131,Others Service items,Exhuast Fan blade,Nos,"10,000.00"
+132,Service,Re-winding exhaust fan(0.5 kW),Nos,"10,000.00"
+133,Others Service items,Magnetic contractor (32A),Nos,"3,700.00"
+134,Others Service items,Over load Relay (2A-24A),Nos,"4,000.00"
+135,Others Service items,Timer (10-60),Nos,800.00
+136,Others Service items,Auxilary,Nos,550.00
+137,Others Service items,Fuse box (32A),Nos,500.00
+138,Others Service items,Selector switch (16a/60volt),Nos,950.00
+139,Others Service items,CT-3x300/5A/100-1000/5A/1200/5A,Nos,"2,300.00"
+140,Others Service items,Ammeter-0-300A,Nos,950.00
+141,Others Service items,Volt meter (0-600),Nos,"2,850.00"
+142,Others Service items,Fuse-5A,Nos,30.00
+143,Others Service items,Pilot Lamp,Nos,38.00
+144,Others Service items,Push switch (6a/250volt),Nos,90.00
+145,Others Service items,Anti gudder,Nos,112.00
+146,Others Service items,Panel ventilation fan,Nos,850.00
+147,Others Service items,"CERAMIC WOOL-1""",  sft,430.00
+148,Others Service items,"CERAMIC WOOL-2""",  sft,440.00
+149,Others Service items,"ROCK WOOL-1""",  sft,250.00
+150,Others Service items,"ROCK WOOL-2""",  nos,500.00
+151,Others Service items,SPRING ISOLATOR FOR DUCT HANGING,  nos,"2,200.00"
+152,Others Service items,SPRING ISOLATOR FOR FCU/AHU,   nos,"2,200.00"
+153,Others Service items,SPRING ISOLATOR FOR AHU,  nos,"2,200.00"
+154,Others Service items,SPRING ISOLATOR FOR PUMP BASE,  nos,"36,000.00"
+155,Others Service items,SPRING ISOLATOR FOR EXHAUST HANGING,  nos,"10,000.00"
+156,Others Service items,SERVICE CHARGE FOR TROUBLE SHOOTING (AHU UNIT),job,"4,000.00"
+157,Others Service items,SUPPLY & INSTALLATION PROGRAMME CONTROLLER FOR INDOOR UNIT,job,"6,500.00"
+158,Chilled Water System,"Chilled Water Pump, 18.5kW, Model-63HZZ-6310ZZ, 380-415V, 50Hz,",Set,"1,150,000.00"
+159,Chilled Water System,Spring Vibration Isolators for Chilled water pump,nos ,"34,500.00"
+160,Chilled Water System,Chilled water pump Bearing,Nos,"5,500.00"
+161,Chilled Water System,Chilled water Motor Bearing ,Nos,"5,500.00"
+162,Chilled Water System,Magnetic contract for Chilled water pump,Nos,"17,000.00"
+163,Chilled Water System,Re-winding of Chilled water pump motor,Nos,"48,000.00"
+164,Chilled Water System,Re-winding of condenser fan motor,Nos,"34,000.00"
+165,Chilled Water System,Child water pump Cuplink,Pcs,"9,500.00"
+166,"AHU, Acson (DAIKIN)","Bag Filter F7 590x590x22mm, 6pocket,L-530mm. filter Efficiency:  F7.",Nos,"9,000.00"
+167,"AHU, Acson (DAIKIN)","Bag FilterF7 590x290x20mm,3pocketL-530mm. filter Efficiency:  F7.",Nos,"4,450.00"
+167,AHU Filters,Pre-Filter  590 x590 x 45 mm ,Nos,"6,100.00"
+168,AHU Filters,Pre-Filter  590 x290 x 45 mm ,Nos,"5,020.00"
+169,AHU spare parts,AHU Motor Puli,Nos,"17,800.00"
+170,AHU spare parts,AHU Blower Puli,Nos,"20,000.00"
+171,AHU spare parts,AHU Motor Bearing ,Nos,"6,700.00"
+172,AHU spare parts,AHU Blower Bearing ,Nos,"7,000.00"
+173,AHU spare parts,AHU V Belt-(A62) ,Nos,"2,300.00"
+174,AHU spare parts,AHU V Belt-(A44) ,Nos,"2,300.00"
+175,AHU spare parts,AHU V Belt-(A46) ,Nos,"2,350.00"
+176,AHU spare parts,AHU V Belt-(A48) ,Nos,"2,340.00"
+177,AHU spare parts,AHU V Belt-(A52) ,Nos,"2,300.00"
+178,AHU spare parts,AHU V Belt-(A54) ,Nos,"2,350.00"
+179,AHU spare parts,AHU V Belt-(A51) ,Nos,"2,360.00"
+180,AHU spare parts,AHU V Belt-(A42) ,Nos,"2,200.00"
+181,AHU spare parts,AHU V Belt-(M26) ,Nos,"1,200.00"
+182,AHU spare parts,AHU VFD 2.5KW,nos ,"93,766.40"
+183,AHU spare parts,AHU VFD 5.5KW,nos ,"115,404.80"
+184,AHU spare parts,AHU VFD 7.5KW,nos ,"137,043.20"
+185,AHU spare parts,AHU VFD 11KW,nos ,"173,107.20"
+186,AHU spare parts,AHU VFD 18KW,nos ,"252,448.00"
+187,AHU spare parts,AHU VFD 32KW,nos ,"346,214.40"
+188,AHU spare parts,AHU VFD 45KW,nos ,"461,619.20"
+189,AHU spare parts," Blower (Fan) for Air Handling Unit. (AHU), Brand : Nicotra, Origin : Italy, Manufacturing : China, Model: FAN ADH 560R
+AHU#1-17]",Set,"490,000.00"
+190,AHU spare parts," Blower (Fan) for Air Handling Unit. (AHU), Brand : Nicotra, Origin : Italy, Manufacturing : China, Model: FAN ADH 560R
+AHU#1-17]",Set,"490,000.00"
+191,AHU spare parts," Blower (Fan) for Air Handling Unit. (AHU), Brand : Nicotra, Origin : Italy, Manufacturing : China, Model : ADY(ADH) 630 R",Set,"560,000.00"
+192,AHU spare parts," Blower (Fan) for Air Handling Unit. (AHU), Brand : Nicotra, Origin : Italy, Manufacturing : China, Model:Model : ADY(ADH) 560 R",Set,"490,000.00"
+193,AHU spare parts," Blower (Fan) for Air Handling Unit. (AHU), Brand : Nicotra, Origin : Italy, Manufacturing : China, Model: Model : ADY(ADH) 500 R",Set,"448,000.00"
+194,AHU spare parts," Blower (Fan) for Air Handling Unit. (AHU), Brand : Nicotra, Origin : Italy, Manufacturing : China, Model:Model : ADY(ADH) 450 R",Set,"420,000.00"
+195,AHU spare parts," Blower (Fan) for Air Handling Unit. (AHU), Brand : Nicotra, Origin : Italy, Manufacturing : China, Model:Model : Model : ADY(ADH) 315 R",Set,"280,000.00"
+196,AHU spare parts,"Motor for Air Handling Unit. (AHU), Brand : ABB, Origin : Italy, Manufacturing : China, Efficiency Rating : IE2, Pole-4, 2.2kW, 380-415 V/3 Ph/50 Hz, Frame-Y2-100L1-4, Class-F, IP-55
+[AHU#3(L7)]",Set,"126,000.00"
+197,AHU spare parts,"Motor for Air Handling Unit. (AHU), Brand : ABB, Origin : Italy, Manufacturing : China, Efficiency Rating : IE2, Pole-4, 5.5kW, 380-415 V/3 Ph/50 Hz, Frame-Y2-132S-4, Class-F, IP-55
+[AHU#2(GF)]",Set,"346,214.40"
+198,AHU spare parts,"Motor for Air Handling Unit. (AHU), Brand : ABB, Origin : Italy, Manufacturing : China, Efficiency Rating : IE2, Pole-4, 7.5kW, Frame- Y2-132M-4,380-415 V/3 Ph/50 Hz,  Class-F, IP-55
+[AHU#1&2(L1), AHU#1&2(L3), AHU#1&2(L4), AHU#1&2(L6), AHU#2(L7)]",Set,"363,525.12"
+199,AHU spare parts,"Motor for Air Handling Unit. (AHU), Brand : ABB, Origin : Italy, Manufacturing : China, Efficiency Rating : IE2, No. of Pole: 4, 11kW, 380-415 V/3 Ph/50 Hz, Frame-Y2-160M-4, Class-F, IP-55, Frame-Y2-160M-4,
+[AHU#1(GF), AHU-1(L2), AHU-1&2(L5)]",Set,"363,525.12"
+200,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Aluminium Frame,rft,"1,500.26"
+201,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],GI Base Frame,rft,"3,188.06"
+202,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],PU Panel,sft,"4,688.32"
+203,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Filter Holding Frame (Sliding),rft,468.83
+204,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],SS Drain Pan,nos,"46,883.20"
+205,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Cooling Coil Baffle Plate,nos,"22,503.94"
+206,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Fan Skid,nos,"225,039.36"
+207,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Vibration Isolator for Fans,nos,"22,503.94"
+208,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Flexible Connection,nos,"9,376.64"
+209,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Screw & Bolts,lot,"9,376.64"
+210,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Thermal Break Profile,rft,562.60
+211,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 1/2"" Diaa",Nos,399.00
+212,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 1"" Dia",Nos,590.00
+213,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 1.5"" Dia",Nos,790.00
+214,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 2"" Dia",Nos,920.00
+215,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 2.5"" Dia",Nos,990.50
+216,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 3"" Dia",Nos,"1,130.50"
+217,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 4"" Dia",Nos,"2,660.00"
+218,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 5"" Dia",Nos,"2,668.74"
+219,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 6"" Dia",Nos,"3,950.00"
+220,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 8"" Dia",Nos,"5,150.00"
+221,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 10"" Dia",Nos,"6,300.00"
+222,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Elbo 12"" Dia",Nos,"7,500.00"
+223,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 1/2"" Dia",Nos,"1,064.00"
+224,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 1"" Dia",Nos,"2,100.00"
+225,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 1.5"" Dia",Nos,"2,650.00"
+226,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 2"" Dia",Nos,"3,500.00"
+227,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 2.5"" Dia",Nos,"3,950.00"
+228,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 3"" Dia",Nos,"4,600.00"
+229,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 4"" Dia",Nos,"5,320.00"
+230,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 5"" Dia",Nos,0.00
+231,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 6"" Dia",Nos,"9,200.00"
+232,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 8"" Dia",Nos,"11,900.00"
+233,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS T Joint 10"" Dia",Nos,"13,000.00"
+234,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7], Welding rod,Pack,750.00
+235,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],End Plate,Nos,700.00
+236,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Dad Plug,Nos,266.00
+237,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 1"" Dia",Nos,525.00
+238,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 1.5"" Dia",Nos,598.50
+239,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 2"" Dia",Nos,"1,050.00"
+240,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 2.5"" Dia",Nos,"1,250.00"
+241,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 3"" Dia",Nos,"1,500.00"
+242,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 4"" Dia",Nos,"1,662.50"
+243,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 5"" Dia",Nos,"1,067.49"
+244,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 6"" Dia",Nos,"1,850.00"
+245,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 8"" Dia",Nos,"1,900.00"
+246,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 10"" Dia",Nos,"2,020.00"
+247,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 12"" Dia",Nos,"2,380.00"
+248,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 14"" Dia",Nos,"2,600.00"
+249,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Flange 16"" Dia",Nos,"2,700.00"
+250,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 1"" Dia",Nos,525.00
+251,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 1.5"" Dia",Nos,655.00
+252,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 2"" Dia",Nos,785.00
+253,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 2.5"" Dia",Nos,920.00
+254,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 3"" Dia",Nos,"1,050.00"
+255,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 4"" Dia",Nos,"1,197.00"
+256,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 5"" Dia",Nos,0.00
+257,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 6"" Dia",Nos,"1,570.00"
+258,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 8"" Dia",Nos,"1,995.00"
+259,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 10"" Dia",Nos,"3,300.00"
+260,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS Reducer 12"" Dia",Nos,"3,800.00"
+261,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],MS nut bolt ,Nos,37.00
+262,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Thread tape ,Nos,24.00
+263,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],Wilding Road ,Pack,"1,500.00"
+264,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS socket 1/2"" Dia ",Nos,132.00
+265,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS socket 1"" Dia ",Nos,172.90
+266,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS socket 1.5"" Dia ",Nos,266.00
+267,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS socket 2"" Dia ",Nos,370.00
+268,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS socket 2.5"" Dia ",Nos,420.00
+269,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS socket 3"" Dia ",Nos,532.00
+270,Cabinet and Metal Parts to make a complete AHU # 1-17[ Ground- Level-7],"MS socket 4"" Dia ",Nos,798.00
+271,Galvanized Iron,"GI Elbo 1/2"" Dia",Nos,79.80
+272,Galvanized Iron,"GI Elbo 1"" Dia",Nos,133.00
+273,Galvanized Iron,"GI Elbo 1.5"" Dia",Nos,199.50
+274,Galvanized Iron,"GI Elbo 2"" Dia",Nos,327.00
+275,Galvanized Iron,"GI Elbo 2.5"" Dia",Nos,425.60
+276,Galvanized Iron,"GI Elbo 3"" Dia",Nos,660.00
+277,Galvanized Iron,"GI Elbo 4"" Dia",Nos,750.00
+278,Galvanized Iron,"GI Socket 1/2"" Dia",Nos,53.20
+279,Galvanized Iron,"GI Socket 1"" Dia",Nos,79.80
+280,Galvanized Iron,"GI Socket 1.5"" Dia",Nos,198.00
+281,Galvanized Iron,"GI Socket 2"" Dia",Nos,239.40
+282,Galvanized Iron,"GI Socket 2.5"" Dia",Nos,330.00
+283,Galvanized Iron,"GI Socket 3"" Dia",Nos,396.00
+284,Galvanized Iron,"GI Socket 4"" Dia",Nos,500.00
+285,Galvanized Iron,"GI T joint 1/2"" Dia",Nos,266.00
+286,Galvanized Iron,"GI T joint 1"" Dia",Nos,532.00
+287,Galvanized Iron,"GI T joint 1.5"" Dia",Nos,790.00
+288,Galvanized Iron,"GI T joint 2"" Dia",Nos,"1,055.00"
+289,Galvanized Iron,"GI T joint 2.5"" Dia",Nos,"1,315.00"
+290,Galvanized Iron,"GI T joint 3"" Dia",Nos,"1,570.00"
+291,Galvanized Iron,"GI T joint 4"" Dia",Nos,"1,900.00"
+292,Galvanized Iron,"GI union 1/2"" Dia",Nos,79.80
+293,Galvanized Iron,"GI union 1"" Dia",Nos,133.00
+294,Galvanized Iron,"GI union 1.5"" Dia",Nos,199.50
+295,Galvanized Iron,"GI union 2"" Dia",Nos,329.00
+296,Galvanized Iron,"GI union 2.5"" Dia",Nos,425.60
+297,Galvanized Iron,"GI union 3"" Dia",Nos,660.00
+298,Galvanized Iron,"GI union 4"" Dia",Nos,750.00
+299,Galvanized Iron,"GI Reducer 1/2"" Dia ",Nos,525.00
+300,Galvanized Iron,"GI Reducer 1"" Dia ",Nos,655.00
+301,Galvanized Iron,"GI Reducer 1.5"" Dia ",Nos,780.00
+302,Galvanized Iron,"GI Reducer 2"" Dia ",Nos,925.00
+303,Galvanized Iron,"GI Reducer 2.5"" Dia ",Nos,"1,055.00"
+304,Galvanized Iron,"GI Reducer 3"" Dia ",Nos,"1,190.00"
+305,Galvanized Iron,"GI Reducer 4"" Dia ",Nos,"1,463.00"
+306,Flexible joint ,"Flaxible Joiny 1"" Dia",Nos,"1,980.00"
+307,Flexible joint ,"Flaxible Joiny 1.5"" Dia",Nos,"2,600.00"
+308,Flexible joint ,"Flaxible Joiny 2"" Dia",Nos,"3,290.00"
+309,Flexible joint ,"Flaxible Joiny 2.5"" Dia",Nos,"3,890.00"
+310,Flexible joint ,"Flaxible Joiny 3"" Dia",Nos,"4,600.00"
+311,Flexible joint ,"Flaxible Joiny 4"" Dia",Nos,"5,320.00"
+312,Flexible joint ,"Flaxible Joiny 5"" Dia",Nos,"8,000.00"
+313,Flexible joint ,"Flaxible Joiny 6"" Dia",Nos,"8,645.00"
+314,Flexible joint ,"Flaxible Joiny 8"" Dia",Nos,"12,500.00"
+315,Flexible joint ,"Flaxible Joiny 10"" Dia",Nos,"16,500.00"
+316,Flexible joint ,"Flaxible Joiny 12"" Dia",Nos,"19,285.00"
+317,Non Return Valve ,"Non Return Valve 1"" Dia ",Nos,"1,250.00"
+318,Non Return Valve ,"Non Return Valve 1.5"" Dia ",Nos,790.00
+319,Non Return Valve ,"Non Return Valve 2"" Dia ",Nos,"1,050.00"
+320,Non Return Valve ,"Non Return Valve 2.5"" Dia ",Nos,"1,330.00"
+321,Non Return Valve ,"Non Return Valve 3"" Dia ",Nos,"2,394.00"
+322,Non Return Valve ,"Non Return Valve 4"" Dia ",Nos,"31,000.00"
+323,Non Return Valve ,"Non Return Valve 5"" Dia ",Nos,"32,400.00"
+324,Non Return Valve ,"Non Return Valve 6"" Dia ",Nos,"33,000.00"
+325,Non Return Valve ,"Non Return Valve 8"" Dia ",Nos,"36,500.00"
+326,Blades,"Grinding wheel 2"" Dia",Nos,106.40
+327,Blades,"Grinding wheel 4"" Dia",Nos,160.00
+328,Blades,"Cutting wheel 2"" Dia",Nos,106.40
+329,Blades,"Cutting wheel 4"" Dia",Nos,199.50
+330,Y- Strainer ,"Y- Strainer 1"" Dia",Nos,"1,320.00"
+331,Y- Strainer ,"Y- Strainer 1.5"" Dia",Nos,"1,580.00"
+332,Y- Strainer ,"Y- Strainer 2"" Dia",Nos,"1,990.00"
+333,Y- Strainer ,"Y- Strainer 2.5"" Dia",Nos,"2,350.00"
+334,Y- Strainer ,"Y- Strainer 3"" Dia",Nos,"2,926.00"
+335,Y- Strainer ,"Y- Strainer 4"" Dia",Nos,"5,320.00"
+336,Y- Strainer ,"Y- Strainer 5"" Dia",Nos,"9,310.00"
+337,Y- Strainer ,"Y- Strainer 6"" Dia",Nos,"15,960.00"
+338,Y- Strainer ,"Y- Strainer 8"" Dia",Nos,"22,400.00"
+339,Y- Strainer ,"Y- Strainer 10"" Dia",Nos,"26,600.00"
+340,Balancing Valve (UL Listed),"Balancing Valve 1"" Dia",Nos,"13,100.00"
+341,Balancing Valve (UL Listed),"Balancing Valve 1.5"" Dia",Nos,"15,700.00"
+342,Balancing Valve (UL Listed),"Balancing Valve 2"" Dia",Nos,"19,800.00"
+343,Balancing Valve (UL Listed),"Balancing Valve 2.5"" Dia",Nos,"23,900.00"
+344,Balancing Valve (UL Listed),"Balancing Valve 3"" Dia",Nos,"29,260.00"
+345,Balancing Valve (UL Listed),"Balancing Valve 4"" Dia",Nos,"42,560.00"
+346,Balancing Valve (UL Listed),"Balancing Valve 5"" Dia",Nos,0.00
+347,Balancing Valve (UL Listed),"Balancing Valve 6"" Dia",Nos,"79,000.00"
+348,Balancing Valve (UL Listed),"Balancing Valve 8"" Dia",Nos,"99,000.00"
+349,Balancing Valve (UL Listed),"Balancing Valve 10"" Dia",Nos,"133,000.00"
+350,Insullation ,"Cork sheet 1/2"" Dia",RFT,197.00
+351,Insullation ,"Cork sheet 1"" Dia",RFT,230.00
+352,Insullation ,"Cork sheet 1.5"" Dia",RFT,249.00
+353,Insullation ,"Cork sheet 2"" Dia",RFT,290.00
+354,Insullation ,"Cork sheet 2.5"" Dia",RFT,312.55
+355,Insullation ,"Cork sheet 3"" Dia",RFT,460.00
+356,Insullation ,"Cork sheet 4"" Dia",RFT,500.00
+357,Insullation ,"Cork sheet 5"" Dia",RFT,520.00
+358,Insullation ,"Cork sheet 6"" Dia",RFT,540.00
+359,Insullation ,"Cork sheet 8"" Dia",RFT,570.00
+360,Insullation ,"Cork sheet 10"" Dia",RFT,590.00
+361,Ducting works ,Adhesive 18 ltr,CAN,"27,000.00"
+362,Ducting works ,Adhesive 3.78 ltr,CAN,"5,985.00"
+363,PVC Pipe & Fittings ,"PVC Pipe 1/2"" Dia",Nos,39.00
+364,PVC Pipe & Fittings ,"PVC Pipe 3/4""Dia",Nos,46.55
+365,PVC Pipe & Fittings ,"PVC Pipe 1"" Dia",Nos,79.00
+366,PVC Pipe & Fittings ,"PVC Pipe 1.5"" Dia",Nos,106.40
+367,PVC Pipe & Fittings ,"PVC Pipe 2"" Dia",Nos,239.40
+368,PVC Pipe & Fittings ,"PVC Pipe 2.5"" Dia",Nos,395.00
+369,PVC Pipe & Fittings ,"PVC Pipe 3"" Dia",Nos,500.00
+370,PVC Pipe & Fittings ,"PVC Pipe 4"" Dia",rft,600.00
+371,PVC Pipe & Fittings ,"PVC Elbo 1/2"" Dia",Nos,59.00
+372,PVC Pipe & Fittings ,"PVC Elbo 3/4"" Dia",Nos,72.50
+373,PVC Pipe & Fittings ,"PVC Elbo 1"" Dia",Nos,79.00
+374,PVC Pipe & Fittings ,"PVC Elbo 1.5"" Dia",Nos,105.00
+375,PVC Pipe & Fittings ,"PVC Elbo 2"" Dia",Nos,133.00
+376,PVC Pipe & Fittings ,"PVC Elbo 2.5"" Dia",Nos,198.00
+377,PVC Pipe & Fittings ,"PVC Elbo 3"" Dia",Nos,266.00
+378,PVC Pipe & Fittings ,"PVC Elbo 4"" Dia",Nos,370.00
+379,PVC Pipe & Fittings ,"PVC Socket 1/2"" Dia",Nos,39.00
+380,PVC Pipe & Fittings ,"PVC Socket 3/4"" Dia",Nos,46.00
+381,PVC Pipe & Fittings ,"PVC Socket 1"" Dia",Nos,59.00
+382,PVC Pipe & Fittings ,"PVC Socket 1.5"" Dia",Nos,79.80
+383,PVC Pipe & Fittings ,"PVC Socket 2"" Dia",Nos,159.60
+384,PVC Pipe & Fittings ,"PVC Socket 2.5"" Dia",Nos,265.00
+385,PVC Pipe & Fittings ,"PVC Socket 3"" Dia",Nos,315.00
+386,PVC Pipe & Fittings ,"PVC Socket 4"" Dia",Nos,310.00
+387,PVC Pipe & Fittings ,"PVC T Joint 1/2"" Dia",Nos,105.00
+388,PVC Pipe & Fittings ,"PVC T Joint 3/4"" Dia",Nos,131.00
+389,PVC Pipe & Fittings ,"PVC T Joint 1"" Dia",Nos,145.00
+390,PVC Pipe & Fittings ,"PVC T Joint 1.5"" Dia",Nos,198.00
+391,PVC Pipe & Fittings ,"PVC T Joint 2"" Dia",Nos,255.00
+392,PVC Pipe & Fittings ,"PVC Reducer 1/2"" Dia",Nos,38.50
+393,PVC Pipe & Fittings ,"PVC Reducer 3/4"" Dia",Nos,46.00
+394,PVC Pipe & Fittings ,"PVC Reducer 1"" Dia",Nos,59.00
+395,PVC Pipe & Fittings ,"PVC Reducer 1.5"" Dia",Nos,79.80
+396,Ducting works ,"Duct dismantle with insulation, jacketing angle, nut, bolt etc.",SFT ,59.85
+397,Ducting works ,"PE foam insulation 1/2""",SFT ,132.00
+398,Ducting works ,"PE foam insulation 3/4""",SFT ,150.00
+399,Ducting works ,"PE foam insulation 1""",SFT ,160.00
+400,Ducting works ,Solution Ica,Ltr,"1,800.00"
+401,Ducting works ,MS angle ,RFT ,198.00
+402,Ducting works ,Aluminum sheet,Sft,238.00
+403,Ducting works ,Threaded rod  10mm,rft,25.00
+404,Ducting works ,Anchor bolt,Nos,19.50
+405,Ducting works ,Thread tape,Nos,22.00
+406,Ducting works ,wrapping tape,Nos,133.00
+407,Ducting works ,silicone gum,Nos,238.00
+408,Ducting works ,Foil tape,Nos,220.00
+409,Ducting works ,Oval Duct  repair,SFT ,133.00
+410,Ducting works ,Butterfly Damper,inc ,35.00
+411,Ducting works ,Drop In Anchor,Pcs,39.20
+412,Ducting works ,10 mm thk internal Insul,sft,158.68
+413,Ducting works ,Air Terminals,Pcs,0.00
+414,Ducting works ,Reducer,SFT ,240.00
+415,Ducting works ,End Cap,SFT ,266.00
+416,Ducting works ,Coupler,SFT ,0.00
+417,Ducting works ,Gripple,Pcs,0.00
+418,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",HMI TD7  display,Set ,"420,000.00"
+419,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Emergency  stop,Set ,"1,995.00"
+420,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Fuse,  primary",Pcs,"3,500.00"
+421,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Fuse,  secondary,  115v",Pcs,600.00
+422,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Fuse,  secondary,  27v",Pcs,240.00
+423,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",UC800 module,Set ,"532,000.00"
+424,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Dual  low  voltage  input,  LCI—C communications  ",Set ,"73,000.00"
+425,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Starter  module for compressor (Chiller)  ,Set ,"99,000.00"
+426,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Dual  triac  output,  modulating   unload  and  load  module",Set ,"77,000.00"
+427,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Quad  relay  outputs,  step  load  control  and  oil  return  valve",Set ,"70,000.00"
+428,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Dual  high  voltage  input,  chilled  water  flow  and  interlock module",Set ,"72,500.00"
+429,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Dual  low  voltage  input,  oil  loss  level,  circuit  module",Set ,"82,000.00"
+430,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Dual  relay  outputs,  chilled  water  pump  start  command module",Set ,"70,000.00"
+431,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Quad  relay  outputs,  unit  status   relays",Set ,"72,400.00"
+432,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","analog  input/output,   module",Set ,"83,600.00"
+433,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Resistor,  transition, ",Set ,"32,000.00"
+434,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Transformer,   control  power",Set ,"32,000.00"
+435,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","under/over  voltage  potential transformer,",Set ,"19,800.00"
+436,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Power  supply  module,Set ,"104,000.00"
+437,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",input  power  terminal,Set ,"19,000.00"
+438,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Fans  cable  power  terminal,Set ,"6,000.00"
+439,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Capacitor for ventilation fan,Pcs,600.00
+440,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Contact realy,Pcs,240.00
+441,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Liquid  level  optical  sensor,Set ,"59,000.00"
+442,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)"," pressure  transducer, ",Set ,"60,000.00"
+443,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Liquid  line  pressure  transducer,  ",Set ,"62,000.00"
+444,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",liquid  line  temperature   sensor,Set ,"38,000.00"
+445,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Evaporator   temperature  sensor,Set ,"39,500.00"
+446,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Economizer   discharge  temperature  sensor,Set ,"41,000.00"
+447,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)", high  pressure  cutout switch,Set ,"35,500.00"
+448,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",heater for compressor  ,Set ,"33,000.00"
+449,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","heater,  for oil  separator, ",Set ,"38,000.00"
+450,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",expansion   valve,Set ,"150,000.00"
+451,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Expansion   valve module,Set ,"52,000.00"
+452,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)", Economizer   expansion   valve,Set ,"32,000.00"
+453,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)", Compressor   ,Set ,"5,034,000.00"
+454,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Solenoid valve   load  control / unload,Set ,"35,500.00"
+455,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Solenoid coil lod/ unload  control,Set ,"29,000.00"
+456,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",solenoid valve  oil  return  ,Set ,"35,500.00"
+457,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",solenoid valve step  load  ,Set ,"32,000.00"
+458,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",solenoid coile  oil  return  control,Set ,"27,000.00"
+459,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)", Condensor  fans motor,Set ,"332,500.00"
+460,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","liquid  level  optical  sensor,  oil  loss  ",Set ,"54,000.00"
+461,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Oil cooler,Set ,"288,000.00"
+462,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Refrigerant oil ,Ltr,"11,500.00"
+463,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",VFD for Compressor  (Chiller-125TR),Set ,"2,374,000.00"
+464,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",VFD for Compressor  (Chiller-200TR),Set ,"3,000,000.00"
+465,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Module for condenser fan,Set ,"105,500.00"
+466,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",RFI filter for AFD,Set ,"53,200.00"
+467,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",AFD keypad,Set ,"130,000.00"
+468,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",DC reactor,Set ,"206,150.00"
+469,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",CT for compressor,Set ,"25,500.00"
+470,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Service valve,Set ,"18,620.00"
+471,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Angle valve,Set ,"11,000.00"
+472,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Male to femail connector ,Set ,"10,500.00"
+473,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Condenser coil,Set ,"5,900,000.00"
+474,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Safety valve,Set ,"32,000.00"
+475,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Refrigerant R134A,CYL,"20,000.00"
+476,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor gas filter ,Nos,"25,137.00"
+477,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor for chiller (Chiller-RTAG125),Pcs,"5,020,000.00"
+478,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor for chiller (Chiller- RTAG200),Pcs,"5,500,000.00"
+479,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Condenser Coil For Chiller(Chiller- RTAG200  & RTAG125 ),Set ,"4,885,000.00"
+480,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Service valve For Compressor ,Nos,"146,300.00"
+481,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",oil cooler for compressor ,set ,"260,000.00"
+482,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Suction Service Valve ,Nos,"122,000.00"
+483,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",oil separetor Tank,Nos,"522,000.00"
+484,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Liquid Line Service Valve,Nos,"48,200.00"
+485,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Liquid Line Filter Element ,Nos,"38,895.00"
+486,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Liquide Level Tank,Nos,"26,600.00"
+487,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor motor re-winding (Chiller- RTAG125 ),Nos,"210,500.00"
+488,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor motor re-winding (Chiller- RTAG200),Nos,"230,000.00"
+489,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor o-ring,Set ,"28,000.25"
+490,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Evaporator for Chiller (Chiller-RTAG125),Nos,"5,255,000.00"
+491,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Evaporator for Chiller (Chiller-RTAG200),Set,"5,890,000.00"
+492,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Power supply module,Nos,"138,625.00"
+493,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Electronic expansion valve module  ,Nos,"158,000.00"
+494,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor starter module,Nos,"227,430.00"
+495,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Condenser fane motor EC Fan Motor ,Nos,"432,250.00"
+496,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Resistor 2.5 OHMS,Nos,"50,000.00"
+497,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Angel valve,Nos,"11,371.50"
+498,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Mini high pressure cut off switch  ,Nos,"23,251.73"
+499,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Hi presser transducer  ,Nos,"62,126.75"
+500,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Presser relief valve  ,Nos,"38,989.75"
+501,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Dry nitrogen,Cyl,"4,250.00"
+502,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Oil filter,nos ,"31,421.25"
+503,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Strainer ,nos,"9,000.00"
+504,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Evaporator Entering Chilled water temperature sensor.,Nos,"43,000.00"
+505,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)", Evaporator Leaving Chilled water temperature sensor.,Nos,"43,000.00"
+506,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Evaporator refrigerant temperature sensor.,Nos,"40,000.00"
+507,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)", Condenser refrigerant temperature sensor.,Nos,"40,865.00"
+508,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Load unload solenoid valve.,Nos,"29,000.00"
+509,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Load unload solenoid coil (110v),Nos,"25,137.00"
+510,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Oil sump heater  (110v),Nos,"43,589.75"
+511,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor oil heater (110v),Nos,"42,989.75"
+512,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor oil ,ltr,"34,500.00"
+513,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor oil filter,Nos,"39,500.00"
+514,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Liquid line filter,Nos,"41,000.00"
+515,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Electronic expansion valve  for RTAG Chiller,Nos,"226,233.00"
+516,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Display module,Nos,"353,115.00"
+517,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Hi pressure transducer,Nos,"59,000.00"
+518,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Lo pressure transducer,Nos,"59,200.00"
+519,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor RTAC 200,Set,"6,031,380.00"
+520,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Fan blade,Nos,"70,411.00"
+521,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Display board ,Nos,"413,000.00"
+522,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Microprocessor,Nos,"301,918.00"
+523,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Filter drier,Nos,"37,107.00"
+524,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Valve actuator,Nos,"50,842.50"
+525,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Magnetic contractor for fan,Nos,"4,200.00"
+526,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Electronics expansion valve,Nos,"220,233.00"
+527,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Oil temp. sensor (Trane),Nos,"32,705.50"
+528,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Flow switch,Nos,"14,800.00"
+529,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Differential pressure switch,Nos,"16,500.00"
+530,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Oil strainer,Nos,"18,852.75"
+531,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Oil sump heater,Nos,"41,000.00"
+532,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Discharge gas Tempe. Sensor,Nos,"30,000.00"
+533,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Transformer (Trane),Nos,"147,822.00"
+534,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Compressor oil,Gal,"37,100.00"
+535,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Bearings for compressor SKF German (9 pic Bearing ),Set,"415,600.00"
+536,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Mechanical water seal,Nos,"28,421.25"
+537,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Fuse for Compressor, 200amp",Nos,"2,992.50"
+538,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Fuse (normal), for chiller",Nos,290.00
+539,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Power card,Nos,"107,730.00"
+540,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Liquid level sensor ,Nos,"130,000.00"
+541,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Starter module for compressor,Nos,"120,000.00"
+542,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Dual analog input / output card,Nos,"110,500.00"
+543,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Dual low voltage binary input card,Nos,"110,300.00"
+544,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Dual high voltage binary input card,Nos,"110,200.00"
+545,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Dual high voltage binary output relay,Nos,"110,000.00"
+546,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Quad relay output (Trane),Nos,"110,500.00"
+547,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Triac output card (Trane),Nos,"110,400.75"
+548,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Motor temp. sensor LLID card(Trane),Nos,"70,000.00"
+549,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Fan blade ,Nos,"70,000.00"
+550,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Rubber insulation,sft,335.16
+551,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Refrigerant R22,Nos,"17,104.63"
+552,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Fuse for Compressor 355A,Nos,"2,993.00"
+553,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Refrigerant oil mineral,ltr ,897.75
+554,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Rubber Isolator,Nos,"6,284.25"
+555,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Coil for Load / Unload,Nos,"25,137.00"
+556,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Control Transformer, TR100VA004",Set,"20,200.00"
+557,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Duct Mounted Temp. sensor, QAM2120.040",Set,"20,400.00"
+558,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Different Pressure Switch (Air Type), QBM815",Set,"21,546.00"
+559,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Water Flow Switch, QVE1901",Set,"34,346.40"
+560,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Immersion Temp. Sensor, QAE2120.010",Set,"22,500.00"
+561,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","PXC Contact Controller 36 Points, PXC36-P.E.A",Set,"375,040.00"
+562,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","PXC Contact Controller 24 Points, PXC24-P.E.A",Set,"248,370.00"
+563,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Electro Hydraulic Actuator, SKD62",Set,"142,625.00"
+564,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Electro Motoric Actuator, SAX61.03",Set,"93,760.00"
+565,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Trank Interface, 538-665",Set,"50,600.00"
+566,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Trank Interface Isolator Extender, 538-960",Meter,"40,690.50"
+567,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","2 Core Twisted Pair Shielded cable, Multicable",rft,170.00
+568,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Valve for Actuator, 599-03079",Set,"100,000.00"
+569,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","PXC Modular controller, pxc100-D.E",Set,"500,710.00"
+570,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","16 I/O Digital Input Modul, TXM1.16D",Set,"75,500.00"
+571,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","6 I/O Relay Module, TXM1.6R",Set,"79,500.00"
+572,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",8 I/O Universal Module TXM1.8U,Set,"96,745.00"
+573,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Bus connection Module 10A TXS1.EF10,Set,"17,000.00"
+574,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","Bus Power Module 24v DC Supply 1200ma, 10A Fuse, TXS1.12F10",Set,"53,500.00"
+575,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Dia 40mm 2-way Valve vvi41.40,Set,"71,820.00"
+576,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","BMS System PC:
+Operating Work Station (Poweredge T100), Dell, Desktop PC",Set,"196,840.00"
+577,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","CCA-BA-PAC-400 CC package 400 ba dp (CCA-BA-PAC-400) SIEMENS, Software",Set,"53,100.00"
+578,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",CCA-200-BA  CC add 200 ba dp (CCA-200-BA SIEMENS,Set,"95,750.00"
+579,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",CMD.04  LMS Micro Dongle CMD.04 SIEMENS,Set,"16,000.00"
+580,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","DDC Controller-01
+PXC36.E.D  Automation Station SIEMENS",Set,"30,250.00"
+581,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","DDC Controller-01
+Enclosure for DDC (NEMA 1) PXA-ENC18, SIEMENS",Set,"15,000.00"
+582,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)",Power Supply Module (100VA) TR100VA004,Set,"14,900.00"
+583,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","DDC Controller-02
+PXC22.E.D  Automation Station",Set,"220,100.00"
+584,"RTAG Air Cooled Rotary Liquid Chiller(Set: 01 & 02- RTAG205P, 200 TR, COP: 3.15, Two Ckt, Refrigerant: R134a,  MFD: 10/2019, Traine China
+ , Set-03: RTAG125P  125TR, COP: 3.21,  Two Ckt,  Refrigerant: R134a, MFD 11/2020, Trane, China)","DDC Controller-02
+Enclosure for DDC (NEMA 1) PXA-ENC18",Set,"15,960.00"
+585,DDC Controller-03 for Roof Top & Basement ,"PXC100.E.D  Automation Station, SIEMENS",Set,"455,500.00"
+586,DDC Controller-03 for Roof Top & Basement ,"TXM1.16D  16 I/O digital input module, SIEMENS",Set,"65,000.00"
+587,DDC Controller-03 for Roof Top & Basement ,"TXM1.6R  6 I/O relay module, SIEMENS",Set,"70,000.00"
+588,DDC Controller-03 for Roof Top & Basement ,"TXM1.8U  8 I/O univ module (DI. AI, AO), SIEMENS",Set,"86,440.00"
+589,DDC Controller-03 for Roof Top & Basement ,"Bus Connection Module, 10A Fuse TXS1.EF10, SIEMENS",Set,"12,100.00"
+590,DDC Controller-03 for Roof Top & Basement ,"24VDC Supply  1200MA, 10 A Fuse TXS1.12F10, SIEMENS",Set,"42,220.00"
+591,DDC Controller-03 for Roof Top & Basement ,"Address Key: 1-24 + Reset TXA1.K24, SIEMENS",Set,"5,000.00"
+592,DDC Controller-03 for Roof Top & Basement ,"Enclosure for DDC (NEMA 1) PXA-ENC34, SIEMENS",Set,"52,000.00"
+593,DDC Controller-03 for Roof Top & Basement ,"Fresh Air Damper Actuator GNP191.1E, SIEMENS ",Set,"45,550.00"
+594,DDC Controller-03 for Roof Top & Basement ,2X1 .5 Twisted pair shileded cable with UL Listing, FT ,148.95
+595,DDC Controller-03 for Roof Top & Basement ,Cat 6 Cable, FT ,35.00
+596,DDC Controller-03 for Roof Top & Basement ,Modulating thermostat for VAV,nos ,"21,638.40"
+597,Others,"Jet FAN, Model: IJA 315",nos ,"259,660.80"
+598,Others,Jet FAN Model: IJA 355,nos ,"288,512.00"
+599,Others,Jet FAN Model: IJA 400,nos ,"331,788.80"
+600,Others,Jet FAN Model: IJA 450,nos ,0.00
+601,Others,Toylet Exhaust Fan ,nos ,"26,500.00"
+602,Others,Room sensor for humidity and temperature QFA3160D,Set,"48,000.00"
+603,Others,Wall Mounted Thermostat,Set,"17,310.72"
+604,Others Service items,"Dismantle of AHU Body, Remove of Cooling Coil, Remove of AHU Motor, Remove of AHU Blower, Remove the old water tray, and Re-Install of AHU Body, Cooling coil, Blower, and Motor with the necessary items. ",jobs,"281,299.20"
+605,Others Service items,"HVAC system maintenance at Tiger's Den(Check & service of VFDs, DDC Controllers, Temp. Sensor, DP Switch, Flow Switch, Actuator valve & whole BMS system check, share report) ",jobs,"112,000.00"
+606,Others Service items,"Chilled water pump repairing( Leak, abnormal noise, replacement of bearing, etc.) ",Nos,"10,000.00"
+607,Others Service items,BMS related troubleshooting and maintenance,jobs,"49,000.00"
+608,Others Service items,VFD related troubleshooting and maintenance,jobs,"42,000.00"
+609,Others Service items,"Consultancy and Analysis (Energy Audit) of cooling load along with recommendations at Tiger's Den [ 88000SFT, 8 floors, 525TR]",jobs,"490,000.00"
+610,Others Service items,Repairing of Exhaust Fan (0.5 kW),jobs,"14,000.00"
+611,Others Service items,"Cooling Load Simulation Reports and design ( up to 15, 000 SFT)",jobs,"91,000.00"
+612,Others Service items,"Cooling Load Simulation Reports and design ( 15,0000 to 35, 000 SFT)",jobs,"140,000.00"
+613,Others Service items,"Cooling Load simulation Reports and design (Above 35, 000 SFT)",jobs,"70,000.00"
+614,Others Service items,CANVAS Cloth for coupling of ducting,sft,434.00
+615,Supply Items,"Outdoor Unit
+DVM S2 72.8 kW System Air Conditioner, Model-AM260, Cooling Capacity: 72.8kW",set,"1,025,000.00"
+616,Supply Items,"Compressor for AM240 (DVM S2), or AM260(DVM S2) 
+Type-Inverter Scroll x 2, Model:DS4GR7066FV* x 2, Oil (Type): PVE",set,"293,750.00"
+617,Supply Items,"a. Cooling capacity :12,300 Btu/h / 3.6 kW  /1.0 TR,Model : AM036NNNDEH/ EU,",set,"105,300.00"
+618,Supply Items,"b. Cooling capacity : 19,100 Btu/h / 5.6 kW /1.6 TR,Model : AM056NN4DEH/ EU,",set,"118,800.00"
+619,Supply Items,"c. Cooling capacity : 24,200 Btu/h / 7.1 Kw /2.0 TR,Model : AM071NN4DEH/ EU",set,"124,200.00"
+620,Supply Items,"d. Cooling capacity : 30,250 Btu/h / 8.9 kW /2.5 TR,Model- AM090NN4DEH/EU",set,"132,300.00"
+621,Supply Items,"e. Cooling capacity : 38,200 Btu/h / 11.2 kW /3.2 TR,Model : AM112NN4DEH/ EU,",set,"145,800.00"
+622,Supply Items,"f. Cooling capacity : 47,800 Btu/h / 14.0 kW /4.0 TR,Model : AM140NN4DEH/ EU,",set,"162,000.00"
+623,Supply Items,"f. Cooling capacity : 38,200 Btu/h / 11.2.0 kW /2.0 TR,Model : AM112KNMDEH/ EU, MSP DUCT Indoor",set,"135,000.00"
+624,Supply Items,"f. Cooling capacity : 47,800 Btu/h / 14.0 kW /4.0 TR,Model : AM140KNMDEH/ EU, MSP DUCT Indoor",set,"162,000.00"
+625,Supply Items,"Fresh Air Unit:
+a. Cooling capacity  : 47,800 Btu/h / 14.0 kW /4.0 TR, Model : AM140MNEPEH/EU, OAP Duct",set,"168,750.00"
+626,Supply Items,"4Way Casset Front Panel, PC4NUSMAN/ PC4NUSKAN",set,"25,000.00"
+627,Supply Items,"4Way Casset Front Panel (600X600), PC4SUFMAN/PC4SUFMBN",set,"25,000.00"
+628,Supply Items,"2 Way Casset Front Panel, PC2NUSMEN",set,"20,000.00"
+629,Supply Items,"Duct Type  Indoor
+Cooling Capacity: 38,200 Btu/h / 11.2 kW /3.2 TR, Model: AM112KNMDEH/EU",set,"90,000.00"
+630,Supply Items,"Duct Type  Indoor
+Cooling Capacity: 47,800 Btu/h / 14.0 kW /4.0 TR, Model: AM140KNMDEH/EU",set,"95,000.00"
+631,Ducting works ,Grill for duct type indoor ,SFT,"2,970.00"
+632,Supply Items,Outdoor Fan PCB,set,"58,750.00"
+633,Supply Items,Outdoor Fan PCB,set,"58,750.00"
+634,Supply Items,Outdoor Fan PCB,set,"58,750.00"
+635,Supply Items,"Indoor Fan Motor 
+Cassette",set,"26,000.00"
+636,Supply Items,"Indoor Fan Motor 
+Cassette",set,"26,000.00"
+637,Supply Items,"Indoor Fan Motor 
+Cassette",set,"26,000.00"
+638,Supply Items,"Indoor Fan Motor 
+Cassette",set,"26,000.00"
+639,Supply Items,"Indoor Fan Motor 
+Cassette",set,"26,000.00"
+640,Supply Items,Outdoor Inverter PCB,set,"123,375.00"
+641,Supply Items,Outdoor Inverter PCB,set,"121,025.00"
+642,Supply Items,Compressor,set,"135,125.00"
+643,Supply Items,Compressor,set,"135,125.00"
+644,Supply Items,Compressor,set,"141,000.00"
+645,Supply Items,"Indoor Thermistor 
+Cassette / Duct",set,"4,500.00"
+646,Supply Items,"Indoor Thermistor 
+Cassette / Duct",set,"4,500.00"
+647,Supply Items,"Indoor Thermistor 
+Cassette / Duct",set,"4,500.00"
+648,Supply Items,"Indoor Thermistor 
+Cassette / Duct",set,"4,500.00"
+649,Supply Items,"Indoor Thermistor 
+Cassette / Duct",set,"4,500.00"
+650,Supply Items,"Indoor Thermistor 
+Cassette / Duct",set,"4,500.00"
+651,Supply Items,Outdoor Thermistor,set,"16,000.00"
+652,Supply Items,DISPLAY PCB,set,"12,000.00"
+653,Supply Items,DISPLAY PCB,set,"15,275.00"
+654,Supply Items,DISPLAY PCB,set,"15,275.00"
+655,Supply Items,"Indoor PCB 
+Cassette",set,"22,500.00"
+656,Supply Items,"Indoor PCB 
+Cassette",set,"23,000.00"
+657,Supply Items,"Indoor PCB 
+Cassette",set,"23,000.00"
+658,Supply Items,"Expantion Valve 
+Cassette & Duct",set,"17,500.00"
+659,Supply Items,"Expantion Valve 
+Cassette & Duct",set,"17,500.00"
+660,Supply Items,"Expantion Valve 
+Cassette & Duct",set,"17,500.00"
+661,Supply Items,"Expantion Valve 
+Cassette & Duct",set,"17,500.00"
+662,Supply Items,EMI / Power PCB,set,"29,375.00"
+663,Supply Items,EMI / Power PCB,set,"29,375.00"
+664,Supply Items,EMI / Power PCB,set,"29,375.00"
+665,Supply Items,Inverter HUB PCB,set,"18,212.50"
+666,Supply Items,Inverter HUB PCB,set,"18,212.50"
+667,Supply Items,Indoor Drain Pump,set,"10,500.00"
+668,Supply Items,Indoor Drain Pump,set,"10,500.00"
+669,Supply Items,Indoor Drain Pump,set,"10,500.00"
+670,Supply Items,Indoor Drain Pump,set,"10,500.00"
+671,Supply Items,Indoor Drain Pump,set,"10,500.00"
+672,Supply Items,Indoor Float Switch,set,"3,500.00"
+673,Supply Items,Indoor Float Switch,set,"3,500.00"
+674,Supply Items,Indoor Float Switch,set,"3,500.00"
+675,Supply Items,Indoor Float Switch,set,"3,500.00"
+676,Supply Items,Indoor Float Switch,set,"3,500.00"
+677,Supply Items,Outdoor Fan Motor,set,"33,000.00"
+678,Supply Items,Outdoor Fan Motor,set,"33,000.00"
+679,Supply Items,Outdoor Fan Motor,set,"33,000.00"
+680,Supply Items,Outdoor Fan Motor,set,"33,000.00"
+681,Supply Items,Fan Propeller,set,"44,650.00"
+682,Supply Items,FAN TURBO Cassette,set,"21,150.00"
+683,Supply Items,Fan Blower Duct,set,"25,000.00"
+684,Supply Items,VALVE 4WAY,set,"37,600.00"
+685,Supply Items,Duct Type Indoor Fan Motor,set,"37,600.00"
+686,Supply Items,Reactor,set,"13,512.50"
+687,Supply Items,Solinoied / Expantion Valve,set,"21,737.50"
+688,Supply Items,High / Low Pressure Valve,set,"11,750.00"
+689,Supply Items,R-410a Gas Supply,Kg,"1,400.00"
+690,Supply Items,Nitrogen,Cylinder,"10,125.00"
+691,Service work,Wielding,job,"6,000.00"
+692,Service work,Vacuum & Re-Commissioning,job,"10,000.00"
+693,Ducting works ,Pe Foam Insulation,SFT,162.00
+694,Supply Items,Indoor Filter,set,"4,000.00"
+695,Supply Items,Cassette Type Indoor Drain Tray,set,"16,500.00"
+696,Ducting works ,Duct Type Indoor Drain Tray,Set,"11,000.00"
+697,Supply Items,Cassette Type Indoor Drain Hose Pipe ,ft,117.50
+698,Supply Items,Duct Type Indoor Drain Hose Pipe ,ft,117.50
+699,Supply Items,Compressor Hiter,set,"9,400.00"
+700,Supply Items,Duct Type Indoor Main PCB,set,"32,000.00"
+701,Supply Items,Outdoor Main PCB,set,"123,375.00"
+702,Supply Items,Networking PCB,set,"35,250.00"
+703,Supply Items,High / Low Pressure Switch,set,"11,750.00"
+704,Supply Items,High / Low Pressure PT,set,"23,500.00"
+705,Supply Items,Outdoor Eeprom,set,"55,000.00"
+706,Supply Items,Indoor Eeprom,set,"14,100.00"
+707,Supply Items,Wireless Remote,set,"9,400.00"
+708,Supply Items,Wired Remote,set,"14,100.00"
+709,Supply Items,Heavy duty AAA Battery for Remote,pair,67.50
+710,Supply Items,Fuse Set(40A-56A) for Motherboard of Outdoor Unit,set,"5,875.00"
+711,Supply Items,"Virus Detector, MSDCAN1/MSD EAN1",set,"24,300.00"
+712,Supply Items,"Motion Detector, MCR-SMA",set,"27,000.00"
+713,Supply Items,DRM Y joint- 2 Indoor Unit Connection,pcs,"10,125.00"
+714,Supply Items,DRM Y joint- 3 Indoor Unit Connection,pcs,"16,200.00"
+715,Supply Items,Header Joint-Over 69.7kW,pcs,"13,500.00"
+716,Supply Items,Header Joint-below 69.6 kW,pcs,"2,700.00"
+717,Supply Items,Header Joint-below 46.4kW,pcs,"2,430.00"
+718,Supply Items,Diffuser & Louver (750 Sq In) for Fresh Air Unit,set,"19,237.50"
+719,Ducting works ,"Duck for fresh Air Unit
+0.66 sheet( 24""X8""), 15 mm PE Insulation",SFT,472.50
+720,Supply Items,6.35 mm,ft,337.50
+721,Supply Items,9.5 mm,ft,472.50
+722,Supply Items,12.7 mm,ft,567.00
+723,Supply Items,15.88 mm,ft,903.15
+724,Supply Items,19.1 mm,ft,918.00
+725,Supply Items,22.2 mm,ft,945.00
+726,Supply Items,28.6 mm,ft,"1,755.00"
+727,Supply Items,34.9 mm,ft,"2,079.00"
+728,Supply Items,41.3 mm,ft,"2,835.00"
+729,Supply Items,43.3 mm,ft,"3,037.50"
+730,Ducting works ,"Drain Pipe and Insulation:
+Supply, installation, testing  & commissioning of Drain pipe and Insulation  works with all necessary  accessories and fittings, Fixing for commissioning of the equipment including  all electrical  works as
+follows technical  specification, drawing and time to time site instruction from Owner. Pipe Pressure test should done as per Ashrae Standard.
+Size: 25 mm",ft,337.50
+731,Supply Items,6.35 mm,ft,114.75
+732,Supply Items,9.5 mm,ft,121.50
+733,Supply Items,12.7 mm,ft,148.50
+734,Supply Items,15.88 mm,ft,189.00
+735,Supply Items,19.1 mm,ft,237.60
+736,Supply Items,22.2 mm,ft,267.30
+737,Supply Items,28.6 mm,ft,310.50
+738,Supply Items,34.9 mm,ft,344.25
+739,Supply Items,41.3 mm,ft,384.75
+740,Supply Items,43.3 mm,ft,405.00
+741,Supply Items,"Contron System, MCM-A300N, Touch screem, etc.",set,"243,000.00"
+742,Supply Items,Communication cables,rm,110.00
